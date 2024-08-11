@@ -1,3 +1,8 @@
+<h1 align="center">
+  <img src="https://github.com/Zaki2K2/Zaki2k2/blob/main/Banner_Profile.png" alt="Banner" style="width:100%" />
+</h1>
+
+
 <h1 align="center">Hi 👋, I'm Syed Zaki Ahmad</h1>
 <h3 align="center"><strong>A Lifelong Learner and Developer from Pakistan</strong></h3>
 
