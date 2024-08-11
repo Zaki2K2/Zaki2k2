@@ -28,7 +28,7 @@
 
 <h3 align="left"><strong>Connect with me:</strong></h3>
 <p align="left">
-  <a href="https://linkedin.com/in/syed-zaki-ahmad" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syed-zaki-ahmad" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/syed-zaki-ahmad-742b741aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="syed-zaki-ahmad" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/23067132/zaki-shah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="zaki-shah" height="30" width="40" /></a>
   <a href="https://kaggle.com/syedzakiahmad" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="syedzakiahmad" height="30" width="40" /></a>
   <a href="https://www.facebook.com/zaki.ahmad.9803" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="zaki.ahmad" height="30" width="40" /></a>
