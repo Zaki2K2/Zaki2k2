@@ -10,9 +10,11 @@
 
 <br>
 
+- 👨‍💻Developer with approximately 1 year of experiences in various technologies.
+  
 - 🔭 I’m currently working on <strong>Customer Complaint Management System (CCMS)</strong>
 
-- 🌱 I’m currently learning <strong>Advanced React.js, C# .Net, Tailwind CSS, and Real-time Data Handling</strong>
+- 🌱 I’m currently learning <strong>Advanced React.js, C# ASP.Net, Tailwind CSS, and Real-time Data Handling</strong>
 
 - 🎓 Aspiring to pursue a master's degree abroad in <strong>Data Science (Business Intelligence)</strong>
 
