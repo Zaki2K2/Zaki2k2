@@ -6,7 +6,7 @@
 
 ### 💡 About Me
 
-- 🔭 I’m currently working as a **Frontend Developer** at **Volpea Solutions**  
+- 🔭 I’m currently working as a **Web Developer** at **National Science and Technology Park**  
 - 🌱 Exploring **Angular**, **React Native**, **.NET Core**, and **Tailwind CSS**
 - 🧠 Passionate about **Clean Code** and **Problem Solving**
 - 🎓 Planning for **Masters in Business Intelligence (Data Science)**
